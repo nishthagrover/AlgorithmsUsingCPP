@@ -1,2 +1,2 @@
 # AlgorithmsUsingCPP
-Implementation of basic Algorithms using C++
+This repository contains Implementation of basic Algorithms using C++.
