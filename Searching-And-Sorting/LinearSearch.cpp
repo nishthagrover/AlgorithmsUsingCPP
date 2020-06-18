@@ -55,11 +55,11 @@ int main()
 	
 	//linear search iterative
 	int index1 = linearSearch(arr, n, element);
-	index1 != -1? cout<<"\using Iterative approach\nElement is at index : "<< index1 : cout<<"\nElement not found.\n";
+	index1 != -1? cout<<"\nUsing Iterative approach\nElement is at index : "<< index1 : cout<<"\nElement not found.\n";
 	
 	//linear search recursive
 	int index2 = linearSearchRecursive(arr, n, element);
-	index2 != -1? cout<<"\using Recursive approach\nElement is at index : "<< index2 : cout<<"\nElement not found."<<endl;
+	index2 != -1? cout<<"\nUsing Recursive approach\nElement is at index : "<< index2 : cout<<"\nElement not found."<<endl;
 	
 	return 0;	
 }
